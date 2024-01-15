@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "bankchurn"
 version = "0.1.0"
-description = ""
+description = "BankChurn is a data science project aimed at predicting customer churn in a fictional bank. It leverages advanced machine learning techniques and data analysis to identify patterns and key factors in customer retention."
 authors = ["adrianinfantes <infantesromeroadrian@gmail.com>"]
 readme = "README.md"
 
