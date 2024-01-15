@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/adrianinfantes/Desktop/AIR/CollegeStudies/MachineLearningPath/Kaggle/BankChurn/notebooks/mlruns/882529673906904199/89e798f58ef9410996d91eb54a284444/artifacts
+end_time: 1705342069281
+entry_point_name: ''
+experiment_id: '882529673906904199'
+lifecycle_stage: active
+run_id: 89e798f58ef9410996d91eb54a284444
+run_name: whimsical-fish-529
+run_uuid: 89e798f58ef9410996d91eb54a284444
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705332204608
+status: 3
+tags: []
+user_id: adrianinfantes

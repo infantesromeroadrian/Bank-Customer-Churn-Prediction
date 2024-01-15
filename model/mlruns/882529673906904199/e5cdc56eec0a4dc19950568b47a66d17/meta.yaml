@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/adrianinfantes/Desktop/AIR/CollegeStudies/MachineLearningPath/Kaggle/BankChurn/notebooks/mlruns/882529673906904199/e5cdc56eec0a4dc19950568b47a66d17/artifacts
+end_time: 1705332204606
+entry_point_name: ''
+experiment_id: '882529673906904199'
+lifecycle_stage: active
+run_id: e5cdc56eec0a4dc19950568b47a66d17
+run_name: placid-jay-797
+run_uuid: e5cdc56eec0a4dc19950568b47a66d17
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705332158768
+status: 3
+tags: []
+user_id: adrianinfantes
