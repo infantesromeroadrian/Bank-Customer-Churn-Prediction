@@ -23,7 +23,7 @@ BankChurn is a data science project aimed at predicting customer churn in a fict
 
 2. Install the dependencies:
    ```bash
-poetry install
+    poetry install
 
 
 3. Run the Streamlit app:
